@@ -4,6 +4,7 @@
 * Please be assured that we do not upload any of your information because we do not have a server.
 * All data transmission is based on HTTPS.
 * Your personal information will only be saved locally.
+* Please feel free to use.
 
 # Contact 
 
