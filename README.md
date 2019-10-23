@@ -1,2 +1,2 @@
 # Feedback
-GitProApp Feedback
+GitHubProApp Feedback
